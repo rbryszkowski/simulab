@@ -8,7 +8,7 @@ const periodicTable = [ //[name, sym, mass number, proton number, period(row), g
   ['Carbon', 'C', 12, 6], //C
   ['Nitrogen', 'N', 14, 7], //N
   ['Helium', 'He', 4, 2], //He
-  ['Uranium', 'U', 238, 92]
+  ['Uranium', 'U', 238, 92] //U
 ];
 
 function getElementData(elementProperty) {//2 item array which details any of the following: name, symbol, mass number, proton number

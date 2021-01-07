@@ -92,8 +92,9 @@ tfoot {
 }
 
 #input-container {
-  /* border: 3px solid grey;
-  border-radius: 12px 0px 0px 12px; */
+  border: 3px solid grey;
+  border-right: 2px solid grey;
+  border-radius: 12px 0px 0px 12px;
   height: 250px;
   padding: 0;
   margin: 0;
@@ -113,8 +114,9 @@ tfoot {
 }
 
 #chem-properties-container {
-  /* border: 3px solid grey;
-  border-radius: 0px 12px 12px 0px; */
+  border: 3px solid grey;
+  border-left: 2px solid grey;
+  border-radius: 0px 12px 12px 0px;
   text-align: center;
   height: 250px;
   padding: 0;
@@ -135,7 +137,7 @@ tfoot {
 }
 
 #input-and-properties-container {
-  border: 3px solid grey;
+  /*border: 3px solid grey;*/
   border-radius: 12px;
   margin-right: 3px;
   margin-left: 3px;
